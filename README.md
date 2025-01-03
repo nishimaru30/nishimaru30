@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently studying at **University of Utah**
 
-- 🌱 I’m currently learning **ML frameworks, mathematics**
+- 🌱 I’m currently learning **ML frameworks, chemistry**
 
 - 👯 I’m looking to collaborate on **cheminformatics projects**
 
-- 📝 I regularly write articles on [https://medium.com/@nishimaru30](https://medium.com/@nishimaru30)
+- 📝 I regularly write articles on [Medium](https://medium.com/@nishimaru30)
 
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **nishimaru30@gmail.com**
 
-- 📄 Know about my experiences [https://nishimaru30.github.io/cv/](https://nishimaru30.github.io/cv/)
+- 📄 Know about my experiences [here](https://nishimaru30.github.io/cv/)
 
 - ⚡ Fun fact **I've never had chai ;)**
 
