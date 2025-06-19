@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nishimaru30@gmail.com**
 
-- 📄 Know about my experiences [here](https://nishimaru30.github.io/cv/)
+- 📄 Know about my experiences [here](https://nishimaru30.github.io/)
 
 - ⚡ Fun fact **I've never had chai ;)**
 
