@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishi</h1>
 <h3 align="center">Grad student</h3>
 
-- 🔭 I’m currently studying at **University of Utah**
+- 🔭 I’m an incoming PhD candidate @ University of Groningen 
 
 - 🌱 I’m currently learning **ML frameworks, chemistry**
 
