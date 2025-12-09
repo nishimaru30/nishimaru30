@@ -1,4 +1,4 @@
-I am currently working at the University of Groningen as a PhD Student in the Stratingh Institute of Chemistry under the supervision of Prof. Robert Pollice. I'm generously funded by the EU and a part of the MSCA Doctoral Network [CATALOOP](https://www.tu-chemnitz.de/cataloop/). 
+I am currently working at the University of Groningen as a PhD Student in the Stratingh Institute of Chemistry under the supervision of [Prof. Robert Pollice](https://pollicegroup.web.rug.nl/rob.html). I'm generously funded by the EU and a part of the MSCA Doctoral Network [CATALOOP](https://www.tu-chemnitz.de/cataloop/). 
 
 Previously, I worked at [Aganitha](https://www.aganitha.ai/), an early-stage startup in Hyderabad, India. 
 
