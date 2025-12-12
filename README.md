@@ -2,6 +2,6 @@ I am currently working at the University of Groningen as a PhD Student in the St
 
 Previously, I worked at [Aganitha](https://www.aganitha.ai/), an early-stage startup in Hyderabad, India. 
 
-I pursued my undergrad (Chemistry major, 2020) and masters (Organic Chemistry, 2022) at Ruia College, affiliated with the University of Mumbai.
+I pursued my undergrad (Chemistry major, 2020) and masters (Organic Chemistry, 2022) at Ruia College, affiliated to the University of Mumbai.
 
 Currently, I am working on developing reliable computational representations for chiral moieties and building ML models for stereoselective reactions. I am passionate about open-source and open-science. I share my views [here](https://medium.com/@nishimaru30).
