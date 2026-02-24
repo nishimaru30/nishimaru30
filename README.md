@@ -1,6 +1,6 @@
 I am currently working at the University of Groningen as a PhD Student in the Stratingh Institute of Chemistry under the supervision of [Dr. Robert Pollice](https://pollicegroup.web.rug.nl/rob.html). I'm generously funded by the EU and am a part of the MSCA Doctoral Network [CATALOOP](https://www.tu-chemnitz.de/cataloop/). 
 
-Previously, I worked at [Aganitha](https://www.aganitha.ai/), an early-stage startup in Hyderabad, India. 
+Previously, I worked at [Aganitha](https://www.aganitha.ai/), a biopharma startup in Hyderabad, India. 
 
 I pursued my undergrad (Chemistry major, 2020) and masters (Organic Chemistry, 2022) at Ruia College, affiliated to the University of Mumbai.
 
